@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonardo Pereyra</h1>
 <h3 align="center">A passionate backend developer from Peru</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leopereyrav&label=Profile%20views&color=0e75b6&style=flat" alt="leopereyrav" /> </p>
-
 - 👨‍💻 All of my projects are available at [aa.com](aa.com)
 
 - 📝 I regularly write articles on [ee.com](ee.com)
