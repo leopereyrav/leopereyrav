@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonardo Pereyra</h1>
 <h3 align="center">A passionate backend developer from Peru</h3>
-
+<!--
 - 👨‍💻 All of my projects are available at [aa.com](aa.com)
 
 - 📝 I regularly write articles on [ee.com](ee.com)
@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I cook delicious**
 
 ---
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/leonardofrancopereyravelarde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardofrancopereyravelarde" height="30" width="40" /></a>
