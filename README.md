@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leonardo Pereyra</h1>
-<h3 align="center">A passionate backend developer from Peru</h3>
-
-- 👨‍💻 All of my projects are available at [aa.com](aa.com)
-
-- 📝 I regularly write articles on [ee.com](ee.com)
+<h3 align="center">A passionate backend developer</h3>
 
 - 💬 Ask me about **Angular, Golang, Node.js**
 
 - 📫 How to reach me **leofranco_97@outlook.com**
-
-- 📄 Know about my experiences [ii.com](ii.com)
 
 - ⚡ Fun fact **I cook delicious**
 
