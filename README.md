@@ -8,15 +8,10 @@ Currently, I work as a fullstack developer, however I have more experience in **
 
 ⚡  **Languages and tools that I use**
 
-<div style="text-align: center">
-golang • nodejs • expressjs • nestjs • nextjs • javascript • typescript • python
-</div>
-<div style="text-align: center">
-mysql • mongodb • postgresql • redis • graphql • kafka
-</div>
-<div style="text-align: center">
-git • postman • docker • kubernetes
-</div>
+<center>golang • nodejs • expressjs • nestjs • nextjs • javascript • typescript • python</center>
+
+<div style="text-align: center">mysql • mongodb • postgresql • redis • graphql • kafka</div>
+<div style="text-align: center">git • postman • docker • kubernetes</div>
 
 <br>
 <br>
