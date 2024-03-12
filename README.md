@@ -1,4 +1,4 @@
-**Hi there 👋**
+<h3>Hi there 👋</h3>
 
 I´m <a href="https://www.linkedin.com/in/leonardofrancopereyravelarde/">Leo</a>, I'm a **software developer** and an **electronic engineer**.
 
@@ -8,10 +8,9 @@ Currently, I work as a fullstack developer, however I have more experience in **
 
 ⚡  **Languages and tools that I use**
 
-<center>golang • nodejs • expressjs • nestjs • nextjs • javascript • typescript • python</center>
-
-<div style="text-align: center">mysql • mongodb • postgresql • redis • graphql • kafka</div>
-<div style="text-align: center">git • postman • docker • kubernetes</div>
+<div align="center">golang • nodejs • expressjs • nestjs • nextjs • javascript • typescript • python</div>
+<div align="center">mysql • mongodb • postgresql • redis • graphql • kafka</div>
+<div align="center">git • postman • docker • kubernetes</div>
 
 <br>
 <br>
