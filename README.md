@@ -15,4 +15,4 @@ Currently, I work as a fullstack developer, however I have more experience in **
 <br>
 <br>
 
-📫 **Contact me**&emsp;=>&emsp;leofranco_97@outlook.com
+📫 **Contact me**&emsp;=>&emsp;lefrpeve10@gmail.com
