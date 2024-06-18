@@ -1,18 +1,15 @@
 <h3>Hi there 👋</h3>
 
-I´m <a href="https://www.linkedin.com/in/leonardofrancopereyravelarde/">Leo</a>, I'm a **software developer** and an **electronic engineer**.
+- 🧑‍💻 I´m [Leo](https://www.linkedin.com/in/leonardopereyravelarde/), **software developer** and **electronic engineer**.
+- 👽 I'm an experienced `backend developer` with frontend knowledge as well.
+- ⚡ I enjoy build cool shits, code, read and do sport.
 
-I develop and operate software for a living.
+Feel free to checkout my [portfolio](https://leopereyrav.vercel.app/) website!
 
-Currently, I work as a fullstack developer, however I have more experience in **backend development**
+⚙️  **MY STACK**
 
-⚡  **Languages and tools that I use**
-
-<div align="center">golang • nodejs • expressjs • nestjs • nextjs • javascript • typescript • python</div>
-<div align="center">mysql • mongodb • postgresql • redis • graphql • kafka</div>
-<div align="center">git • postman • docker • kubernetes</div>
-
-<br>
-<br>
-
-📫 **Contact me**&emsp;=>&emsp;lefrpeve10@gmail.com
+<div align="center"><div style="flex: 1;">
+  <a href="https://github.com/leopereyrav">
+    <img style="max-width: 100%;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leopereyrav&layout=compact&langs_count=8&theme=algolia&custom_title=Languages"/>
+  </a>
+</div>
