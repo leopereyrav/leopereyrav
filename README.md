@@ -4,7 +4,7 @@
 - 👽 I'm an experienced `backend developer` with frontend knowledge as well.
 - ⚡ I enjoy build cool shits, code, read and do sport.
 
-Feel free to checkout my [portfolio](https://leopereyrav.vercel.app/) website!
+Feel free to checkout my [portfolio](https://www.leopereyrav.com/) website!
 
 ⚙️  **MY STACK**
 
